@@ -12,7 +12,11 @@ The first objective is to perform the ETL process entirely in the cloud and uplo
  
 Music
 https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Music_v1_00.tsv.gz
- 
+
+### Images
+
+https://github.com/caitlinbighem/Amazon_Vine_Analysis/blob/main/Resources/Screenshot%20.PNG
+
 ## Results
  
 For this analysis, we took the total number of reviews and applied a filter to the DataFrames to determine how many were either paid or unpaid. Out of the 4.75 million reviews contained in this dataset, this filter showed there was a grand total of seven that were paid reviews. Next, we determined the amount of 5-Star ratings associated with these reviews that were from unpaid sources. From this research, we were able to determine there were 67,580 5-Star ratings resulting from unpaid reviews. Finally, we calculated the percentage of 5-Star ratings which came to a total of 63.77% from unpaid sources.

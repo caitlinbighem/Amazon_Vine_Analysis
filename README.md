@@ -15,7 +15,7 @@ https://s3.amazonaws.com/amazon-reviews-pds/tsv/amazon_reviews_us_Music_v1_00.ts
 
 ### Images
 
-https://github.com/caitlinbighem/Amazon_Vine_Analysis/blob/main/Resources/Screenshot%20.PNG
+(https://github.com/caitlinbighem/Amazon_Vine_Analysis/blob/main/Resources/Screenshot%20.PNG)
 
 ## Results
  
